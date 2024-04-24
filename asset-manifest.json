@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RoomBooking1/static/css/main.aec3e415.css",
+    "main.js": "/RoomBooking1/static/js/main.55a9acb7.js",
+    "static/js/453.f5f57bb6.chunk.js": "/RoomBooking1/static/js/453.f5f57bb6.chunk.js",
+    "index.html": "/RoomBooking1/index.html",
+    "main.aec3e415.css.map": "/RoomBooking1/static/css/main.aec3e415.css.map",
+    "main.55a9acb7.js.map": "/RoomBooking1/static/js/main.55a9acb7.js.map",
+    "453.f5f57bb6.chunk.js.map": "/RoomBooking1/static/js/453.f5f57bb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec3e415.css",
+    "static/js/main.55a9acb7.js"
+  ]
+}
